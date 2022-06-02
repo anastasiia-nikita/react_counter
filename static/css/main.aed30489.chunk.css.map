@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,SACE,iBAAkB,CAClB,OAAQ,CACR,QAAS,CACT,sCAAA,CAAA,8BAAgC","file":"main.aed30489.chunk.css","sourcesContent":[".content {\n  position: absolute;\n  top: 45%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}\n"]}
